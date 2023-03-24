@@ -1,0 +1,14 @@
+table,td{
+    border: 2px solid white;
+    border-collapse: collapse;
+}
+.b,q,w,b{
+    background-color: cornsilk;
+    color: black;
+}
+.a{
+    color: white;
+    background-color: orange;
+    border: 1px solid black;
+    
+}
